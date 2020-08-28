@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Conexa</string>
+
+    <string name="form_title">Completar formulario</string>
+
+    <string name="hint_name">Ingresar nombre</string>
+    <string name="hint_lastName">Ingresar apellido</string>
+    <string name="hint_email">Ingresar email</string>
+    <string name="hint_phone">Ingresar telefono</string>
+    <string name="hint_homeAddress">Ingresar direccion y numero</string>
+
+    <string name="text_button_save">Enviar</string>
+    <string name="text_button_show_count">¿Cuantos hay?</string>
+
+    <string name="info_add_ok">Agregado correctamente</string>
+    <string name="error_some_empty">Todos los valores son necesarios</string>
+    <string name="error_not_add">No se pudo agregar</string>
+    <string name="info_count">Hay {{count}} elementos guardados</string>
 </resources>
